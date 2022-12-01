@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/az-devops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/elasticclouds.calculator?branchName=master)](https://dev.azure.com/az-devops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
 
+[Status](https://dev.azure.com/az-devops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/elasticclouds.calculator?branchName=master)
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
